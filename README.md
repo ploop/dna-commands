@@ -277,6 +277,9 @@ Get USB current
 
 Get USB voltage
 
+### U=<number>
+Set USB current
+
 
 ## V
 
